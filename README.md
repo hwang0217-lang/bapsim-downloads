@@ -1,6 +1,6 @@
 # 밥심 Android 설치 파일
 
-[밥심 APK 바로 다운로드](https://github.com/hwang0217-lang/bapsim-downloads/releases/download/android-code18/bapsim-code18.apk)
+[밥심 APK 바로 다운로드](https://github.com/hwang0217-lang/bapsim-downloads/releases/download/android-code18/bapsim-code18.apk?download=1)
 
 1. 휴대폰에서 APK를 다운로드한 뒤 엽니다. GitHub 로그인은 필요하지 않습니다.
 2. Android가 요청하면 사용 중인 브라우저의 ‘이 출처 허용’을 켜고 설치합니다.
